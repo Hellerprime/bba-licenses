@@ -1,6 +1,6 @@
 {
   "payload": {
-    "updated": "2026-06-17T08:53:37",
+    "updated": "2026-06-17T08:53:40",
     "revoked": [
       "LIC-0D1FADB9B0464F17",
       "LIC-E40FE8B2B7234762",
@@ -9,5 +9,5 @@
     "expiry": {},
     "notices": {}
   },
-  "signature": "LXgJ4gdVqDpHrPl4J6L1Dxa3aak5ZWLKkUKAo+vkb+F52pnXoje6/P2DDE7Pqx5ZE1oD5X/EV9bZA/i1kbbYBw=="
+  "signature": "PB5wdNXlH3nL6JN6Rx2c/F89kti5piq35GgRkaL9rM1rdomKhPQkRz+5SOIH3r2RuGqvIwsT016F3DkZWPWODA=="
 }
